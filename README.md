@@ -22,7 +22,7 @@ Aspiring Software Engineer with hands-on experience in web development and progr
 - **Contact Book Manager** — Python, Tkinter  
 
 ## 🔹 Live Portfolio
-👉 https://reshmi-batchu.github.io  
+👉 [https://reshmi-batchu.github.io  ](https://reshmi-batchu.github.io/reshmi-batchu/)
 
 ## 🔹 Contact
 - Email: batchureshmi@gmail.com  
