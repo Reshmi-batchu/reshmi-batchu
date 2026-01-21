@@ -1,16 +1,34 @@
-## Hi there 👋
+# Reshmi Sri Rajya Lakshmi — Personal Portfolio
 
-<!--
-**Reshmi-batchu/reshmi-batchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year BCA student (CGPA 8.9/10) from Aditya Degree College, Eluru.  
+Aspiring Software Engineer with hands-on experience in web development and programming.
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- Strong foundation in Python, JavaScript, HTML, CSS, Node.js, and MySQL  
+- Completed internships with IBM SkillsBuild (Edunet Foundation) and Adhoc Networks (MERN Stack)  
+- Actively seeking entry-level IT / Software Developer roles for 2026  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills
+- Programming: Python, JavaScript, C  
+- Web: HTML5, CSS3, Bootstrap  
+- Backend: Node.js, Express.js  
+- Database: MySQL  
+- Tools: Git, GitHub, VS Code  
+
+## 🔹 Projects
+- **Full-Stack Journal Application** — Node.js, Express, MySQL  
+- **Daily Expense Tracker** — HTML, CSS, JavaScript  
+- **Weather Dashboard** — OpenWeather API, Bootstrap  
+- **Contact Book Manager** — Python, Tkinter  
+
+## 🔹 Live Portfolio
+👉 https://reshmi-batchu.github.io  
+
+## 🔹 Contact
+- Email: batchureshmi@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/reshmi-batchu/  
+- GitHub: https://github.com/Reshmi-batchu  
+
+---
+
+⭐ This portfolio showcases my academic profile, technical skills, internships, and real-world projects.
